@@ -5,6 +5,6 @@ public class App
     public static void main(String[] args)
     {
         System.out.println("Hello, Group 3!");
-        System.out.println("Boo, yah");
+        System.out.println("Lets Begin");
     }
 }
